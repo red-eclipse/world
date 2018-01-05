@@ -1,6 +1,6 @@
 Welcome to the world of Red Eclipse. A place for user discussions, showcasing maps and mods, and documentation.
 
-If you've ended up at this front page by accident, you're probably looking for the [Issues page](https://redeclipse.net/world/issues).
+If you've ended up at this front page by accident, you're probably looking for the [Discussion Area](https://redeclipse.net/discuss).
 
 We're currently working on porting our old MediaWiki install, if you're interested in porting pages to [Markdown](https://guides.github.com/features/mastering-markdown/) for us, please see the [Old Wiki 
 repository](https://github.com/red-eclipse/oldwiki) and start pushing changes to the new [Docs Repository](https://github.com/red-eclipse/docs).
