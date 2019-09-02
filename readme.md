@@ -3,7 +3,7 @@ Welcome to the world of Red Eclipse. A place for user discussions, showcasing ma
 If you've ended up at this front page by accident, you're probably looking for the [Discussion Area](https://redeclipse.net/discuss).
 
 We're currently working on porting our old MediaWiki install, if you're interested in porting pages to [Markdown](https://guides.github.com/features/mastering-markdown/) for us, please see the [Old Wiki 
-repository](https://github.com/red-eclipse/oldwiki) and start pushing changes to the new [Docs Repository](https://github.com/red-eclipse/docs).
+repository](https://github.com/redeclipse/oldwiki) and start pushing changes to the new [Docs Repository](https://github.com/redeclipse/docs).
 
 This board is primarily a development and social environment for those who are working on or with others on the project.
 
